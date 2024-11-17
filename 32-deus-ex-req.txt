@@ -1,0 +1,7 @@
+Sistema Operacional: Windows XP.
+Processador: 300 MHz Pentium II.
+Memória RAM: 64MB.
+Placa de vídeo: 16MB, aceleração de vídeo 3D.
+Placa de som: compatível com DirectX.
+DirectX: 7.0a.
+Espaço livre em disco: 150MB.

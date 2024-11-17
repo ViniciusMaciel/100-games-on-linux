@@ -1,0 +1,35 @@
+description: Installs the game + the Community Update https://github.com/Defaultplayer001/Deus-Ex-Universe-Community-Update-
+game_slug: deus-ex
+gogslug: deus_ex
+humblestoreid: deus-ex-game-of-the-year-edition
+installer_slug: deus-ex-gog-community-update
+name: Deus Ex
+notes: Use OpenGL renderer to avoid issues
+runner: wine
+script:
+  files:
+  - installer: N/A:Please select the GOG installer
+  - communityupdate: N/A:Please download & select the Community Update installer https://github.com/Defaultplayer001/Deus-Ex-Universe-Community-Update-
+  game:
+    arch: win32
+    exe: drive_c/GOG Games/Deus Ex GOTY/Mods/Community Update/System/Deus Ex Community
+      Update.exe
+    prefix: $GAMEDIR
+  installer:
+  - task:
+      arch: win32
+      args: /VERYSILENT /LANG=en /SP- /NOCANCEL /SUPPRESSMSGBOXES /NOGUI /DIR="C:\GOG
+        Games\Deus Ex GOTY"
+      description: Installing Deus Ex
+      executable: installer
+      name: wineexec
+      prefix: $GAMEDIR
+  - task:
+      description: Installing Community Update. Please select your desired options.
+      executable: communityupdate
+      name: wineexec
+      prefix: $GAMEDIR
+slug: deus-ex-gog-community-update
+steamid: 6910
+version: GOG + Community Update
+year: 2000

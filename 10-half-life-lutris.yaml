@@ -1,0 +1,15 @@
+description: null
+game_slug: half-life-2
+gogslug: ''
+humblestoreid: ''
+installer_slug: half-life-2-steam
+name: Half-Life 2
+notes: ''
+runner: steam
+script:
+  game:
+    appid: 220
+slug: half-life-2-steam
+steamid: 220
+version: steam
+year: 2004

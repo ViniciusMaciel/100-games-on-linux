@@ -1,0 +1,40 @@
+escription: Play "Deus Ex" provided by GOG on Linux!
+game_slug: deus-ex
+gogslug: deus_ex
+humblestoreid: deus-ex-game-of-the-year-edition
+installer_slug: deus-ex-gog-gmdx-mod
+name: Deus Ex
+notes: '- Using GMDX mod: GMDX is an award-winning large-scale modification for the
+  2000 PC classic Deus Ex. GMDX addresses the many flaws of the game, polishes it
+  to a very high standard, and adds new layers of depth that one would have hoped
+  to see in a sequel. GMDX is executed with the strict parameter of staying true to
+  the original design principles that define Deus Ex, and seeks to improve all aspects
+  of design excluding the plot and soundtrack. The cumulative result thus far is said
+  to be, and aims to be the "definitive Deus Ex experience".'
+runner: wine
+script:
+  files:
+  - gogsetup: N/A:Please select the Windows setup file downloaded from your GOG account.
+  - mod: N/A:Please select GMDX setup file available for download at https://www.moddb.com/mods/gmdx/downloads/gmdxv90-release
+  game:
+    exe: drive_c/GOG Games/Deus Ex GOTY/GMDXv9/Play_GMDX.lnk
+    gogid: 1207658995
+    prefix: $GAMEDIR
+  installer:
+  - task:
+      arch: win64
+      name: create_prefix
+      prefix: $GAMEDIR
+  - extract:
+      dst: $GAMEDIR/drive_c/GOG Games/Deus Ex GOTY
+      file: gogsetup
+      format: gog
+  - task:
+      description: Installing GMDX
+      executable: mod
+      name: wineexec
+      prefix: $GAMEDIR
+slug: deus-ex-gog-gmdx-mod
+steamid: 6910
+version: GOG + GMDX mod
+year: 2000

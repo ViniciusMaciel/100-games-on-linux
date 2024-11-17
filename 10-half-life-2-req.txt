@@ -1,0 +1,5 @@
+Sistema Operativo *: Windows 7, Vista, XP.
+Processador: 1.7 Ghz.
+Memória: 512 MB de RAM.
+Placa gráfica: DirectX 8.1 level Graphics Card (requires support for SSE)
+Espaço no disco: Requer 6500 MB de espaço livre.
