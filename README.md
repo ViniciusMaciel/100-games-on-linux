@@ -4,9 +4,36 @@ The objetive this project is gather a way to run the 100 best games of history (
 For limitation of this hardware (1gb ram), i use just the game releases to xbox/gb/ps2 (fewer 1gb ram - max 2008)
 I follow this strategy:
 
-1-> I used the ported official release to linux;
-2 -> I used a open source port to linux
-3 -> I used the emulatation of windows version on wine.
+1-> If the game yet ported, I don't need do anything
+2-> I used the ported official release to linux;
+3 -> I used a open source port to linux
+4 -> I used the emulatation of windows version on wine.
+
+Games - releases to portmaster
+74. Undertale (2015) - https://portmaster.games/detail.html?name=undertale
+61. Grand Theft Auto III (2001) - https://portmaster.games/detail.html?name=gta3
+52. Half-Life (1998) - https://portmaster.games/detail.html?name=half-life
+50. Spelunky (2008)
+49. Stardew Valley (2016) - https://portmaster.games/detail.html?name=stardewvalley
+13. The Legend of Zelda: Ocarina of Time (1998) - https://portmaster.games/detail.html?name=soh
+69. The Legend of Zelda: Majora’s Mask (2000) - https://portmaster.games/detail.html?name=soh2
+3. Tetris (1985)
+60. Super Metroid (1994) - https://portmaster.games/detail.html?name=sm
+18. Super Mario 64 (1996) - https://portmaster.games/detail.html?name=render96ex
+14. Super Mario World (1990) - https://portmaster.games/detail.html?name=smworld
+
+
+Extra games (out of the 100 of the magine) - releases to portmaster
+* GTA Vice City - https://portmaster.games/detail.html?name=gtavc
+* Sonic the Hedgehog - https://portmaster.games/detail.html?name=sonic.1
+* Sonic the Hedgehog 2 - https://portmaster.games/detail.html?name=sonic.2
+* Caesar 3 - https://portmaster.games/detail.html?name=augustus
+* Zelda: A link toe the past - https://portmaster.games/detail.html?name=zelda3
+* need for speed 2 - https://portmaster.games/detail.html?name=nfs2se
+* Star Wars Jedi Knight - Jedi Academy - https://portmaster.games/detail.html?name=jediacademy
+* Sonic CD - https://portmaster.games/detail.html?name=sonic.cd
+* Celeste - https://portmaster.games/detail.html?name=celeste
+* Star Wars Jedi Knight II - Jedi Outcast - https://portmaster.games/detail.html?name=jedioutcast
 
 This the list:
 100. Star Wars: Knights of the Old Republic (2004)
@@ -22,13 +49,11 @@ This the list:
 65. GoldenEye 007 (1997)
 63. The Sims 2 (2004)
 62. Castlevania: Symphony of the Night (1997)
-61. Grand Theft Auto III (2001)
 59. Fallout 3 (2008)
 58. The Elder Scrolls IV: Oblivion (2006)
 57. Final Fantasy IX (2000)
-52. Half-Life (1998)
 51. Final Fantasy X (2001)
-50. Spelunky (2008)
+
 45. Halo 3 (2007)
 44. The Elder Scrolls III: Morrowind (2003)
 41. The Sims (2000)
@@ -44,7 +69,7 @@ This the list:
 11. Resident Evil 4 (2005)
 10. Half-Life 2 (2004)
 7. Metal Gear Solid (1998)
-3. Tetris (1985)
+
 
 Games - Just for consoles ( I will search a way to get the source code and run using in a native way)
 96. Super Mario Bros (1985)
@@ -54,9 +79,7 @@ Games - Just for consoles ( I will search a way to get the source code and run u
 84. Shenmue (1999)
 76. Pokémon Gold and Silver (1999)
 75. Metroid Prime (2002)
-69. The Legend of Zelda: Majora’s Mask (2000)
 67. The Legend of Zelda: Wind Waker (2002)
-60. Super Metroid (1994)
 54. Ico (2001)
 42. Chrono Trigger (1995)
 40. Super Mario Galaxy (2007)
@@ -65,10 +88,6 @@ Games - Just for consoles ( I will search a way to get the source code and run u
 31. Shadow of the Colossus (2005)
 26. The Legend of Zelda: A Link to the Past (1991)
 25. Pokémon Red & Blue (1996)
-18. Super Mario 64 (1996)
-14. Super Mario World (1990)
-13. The Legend of Zelda: Ocarina of Time (1998)
-
 
 Games - old but too heavy:
 22. World of Warcraft (2004)
@@ -86,7 +105,6 @@ Games - Very Recents (too heavy):
 81. Fortnite (2017)
 80. Firewatch (2016)
 79. Tetris Effect (2018)
-74. Undertale (2015)
 72. Yakuza 0 (2015)
 70. Left 4 Dead 2 (2009)
 66. Fallout New Vegas (2010)
@@ -94,7 +112,6 @@ Games - Very Recents (too heavy):
 56. Inside (2016)
 55. Hollow Knight (2016)
 53. Dishonored 2 (2016)
-49. Stardew Valley (2016)
 48. Grand Theft Auto V (2013)
 47. God of War (2018)
 46. Destiny (2014)
