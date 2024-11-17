@@ -1,0 +1,34 @@
+Game                                    Position    Year    OS  GPU         CPU                 RAM     Disk Space
+Star Wars: Knights of the Old Republic  100         2004    XP  32MB        Pentium 3 1Ghz      256MB   3500MbS
+Age Of Empires II                       98          1999    95              Pentium 166Mhhz     32MB    300MB                
+Ultima Underworld                       95          1992   
+Mass Effect                             92          2007    XP  ATI 1300 XT Pentium 4 2.4Ghz    1024MB  12000MB
+Tony Hawk’s Pro Skater 2                78          2000    XP  32MB        Pentium 3 8000Mhz   256MB   500MB
+The Secret of Monkey Island             77          1994
+Metal Gear Solid                        07                                  Pentium II 266MHz   32MB    400MB
+Half Life 2                             10                  XP  DirectX 8.1 1.7 Ghz             512MB   6500MB 
+Deus Ex                                 32                  XP  3D + 16MB   Pentium 3 300mhz    64MB    150MB
+Undertale                               74                  XP  128MB                           2048MB  200MB   
+Grand Theft Auto III                    61                  98  16MB        Pentium 3 450Mhz    96MB    500MB
+Half Life                               52                  XP  16MB        500Mhz              96MB    
+Spelunky                                50          2008    XP              Core 2 Duo 2.8      2048MB  200MB          
+Stardew Valley                          49          2016    Vs  256MB       2Ghz                2048MB  500MB
+Final Fantasy VI                        73	        1994
+Call of Duty 4: Modern Warfare          71	        2007    XP  Gf 6600     Pentium 4 2.4       512MB   8000MB    
+Thief: The Dark Project                 68	        1998
+GoldenEye 007                           65	        1997
+The Sims 2                              63	        2004
+Fallout 3                               59	        2008    XP  gf 6800     Pentium 4 2.4       1024MB  7000MB
+The Elder Scrolls IV: Oblivion          58	        2006    XP  128MB       Pentium 4 2.0       512MB   4600MB
+Final Fantasy IX                        57	        2000
+Final Fantasy X                         51	        2001
+The Elder Scrolls III: Morrowind        44	        2003
+The Sims                                41	        2000
+Silent Hill 2                           37	        2001
+Portal                                  35	        2007
+Metal Gear Solid 3: Snake Eater         33	        2004
+Street Fighter II                       27	        1991
+Halo: Combat Evolved                    21	        2001
+Doom                                    19	        1993
+Final Fantasy VII                       17	        1997
+Resident Evil 4                         11	        2005

@@ -1,0 +1,4 @@
+Name                Code        Year
+Windows XP          XP
+Windows Vista       Vs
+Ubuntu  12          U12         

@@ -10,11 +10,9 @@ I follow this strategy:
 4 -> I used the emulatation of windows version on wine.
 
 Games - releases to portmaster
-74. Undertale (2015) - https://portmaster.games/detail.html?name=undertale
 61. Grand Theft Auto III (2001) - https://portmaster.games/detail.html?name=gta3
 52. Half-Life (1998) - https://portmaster.games/detail.html?name=half-life
 50. Spelunky (2008)
-49. Stardew Valley (2016) - https://portmaster.games/detail.html?name=stardewvalley
 13. The Legend of Zelda: Ocarina of Time (1998) - https://portmaster.games/detail.html?name=soh
 69. The Legend of Zelda: Majora’s Mask (2000) - https://portmaster.games/detail.html?name=soh2
 3. Tetris (1985)
@@ -37,10 +35,8 @@ Extra games (out of the 100 of the magine) - releases to portmaster
 
 This the list:
 100. Star Wars: Knights of the Old Republic (2004)
-99. Rez (2001)
 98. Age Of Empires II: The Age of Kings (1999)
 95. Ultima Underworld: The Stygian Abyss (1992)
-92. Mass Effect (2007)
 78. Tony Hawk’s Pro Skater 2 (2000)
 77. The Secret of Monkey Island (1990)
 73. Final Fantasy VI (1994)
@@ -48,13 +44,10 @@ This the list:
 68. Thief: The Dark Project (1998)
 65. GoldenEye 007 (1997)
 63. The Sims 2 (2004)
-62. Castlevania: Symphony of the Night (1997)
 59. Fallout 3 (2008)
 58. The Elder Scrolls IV: Oblivion (2006)
 57. Final Fantasy IX (2000)
 51. Final Fantasy X (2001)
-
-45. Halo 3 (2007)
 44. The Elder Scrolls III: Morrowind (2003)
 41. The Sims (2000)
 37. Silent Hill 2 (2001)
@@ -62,7 +55,6 @@ This the list:
 33. Metal Gear Solid 3: Snake Eater (2004)
 32. Deus Ex (2000)
 27. Street Fighter II (1991)
-23. Bioshock (2007)
 21. Halo: Combat Evolved (2001)
 19. Doom (1993)
 17. Final Fantasy VII (1997)
@@ -80,6 +72,7 @@ Games - Just for consoles ( I will search a way to get the source code and run u
 76. Pokémon Gold and Silver (1999)
 75. Metroid Prime (2002)
 67. The Legend of Zelda: Wind Waker (2002)
+62. Castlevania: Symphony of the Night (1997)
 54. Ico (2001)
 42. Chrono Trigger (1995)
 40. Super Mario Galaxy (2007)
@@ -89,11 +82,14 @@ Games - Just for consoles ( I will search a way to get the source code and run u
 26. The Legend of Zelda: A Link to the Past (1991)
 25. Pokémon Red & Blue (1996)
 
-Games - old but too heavy:
+Games - Dont include:
 22. World of Warcraft (2004)
+
+99. Rez (2001)
 
 Games - Very Recents (too heavy):
 97. The Return of the Obra Dinn (2018)
+92. Mass Effect (2007)
 91. Grand Theft Auto IV (2008)
 89. Hitman: World of Assassination (2016 – 2021)
 88. The Last Guardian (2016)
@@ -115,6 +111,7 @@ Games - Very Recents (too heavy):
 48. Grand Theft Auto V (2013)
 47. God of War (2018)
 46. Destiny (2014)
+45. Halo 3 (2007)
 43. Nier Automata (2017)
 39. What Remains of Edith Finch (2017)
 38. Hades (2020)
@@ -122,6 +119,7 @@ Games - Very Recents (too heavy):
 29. Journey (2012)
 28. The Last of Us Part II (2020)
 24. Minecraft (2011)
+23. Bioshock (2007)
 20. Elden Ring (2022)
 16. The Elder Scrolls V: Skyrim (2011)
 15. Red Dead Redemption II (2018)
